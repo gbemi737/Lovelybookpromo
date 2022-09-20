@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Aref+Ruqaa+Ink&family=Dancing+Script&family=Indie+Flower&display=swap');
+body {
+background-color: #EB8B6E;
+color: #2E201C;
+font-family: 'Aref Ruqaa Ink', serif;
+
+}
+h1 {
+  font-size: 50px;
+  width: 67%
+}
+#bookcover {
+height: 680px;
+position: absolute; right: 10px;
+}
+#auther{
+  font-size: 45px;
+color: #704B42;
+}
+.firstblock{
+  width: 67%;
+  font-size: 30px;
+  background-color: #A37164;
+  font-family: 'Indie Flower', cursive;}
+.wattpad{
+  font-size: 35px;
+  text-align: center;
+}
+
+#joy{
+  background-color: #A37164;
+  font-size: 30px;
+    position: relative; left: 725px;
+  width: 50%;
+}
+#alim{
+  background-color: #A37164;
+  font-size: 30px;
+  width: 50%;
+}
